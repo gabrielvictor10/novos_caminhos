@@ -3,14 +3,15 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Gabriel Victor Silva Vilarinho</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Gabriel Victor Silva Vilarinho" />
+    <meta name="description"
+        content="Portifólio de trabalhos realizados e formação de Gabriel Victor Silva Vilarinho" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -36,29 +37,29 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/EU.jpeg" alt="Gabriel Victor Silva Vilarinho">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Gabriel Victor Silva Vilarinho</h4>
+                        <div class="status">Estudante de Programação WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="***************************">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/gabrielvictor10">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="****************">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -124,11 +125,9 @@
                         <!-- Sobre Mim  -->
                         <div class="pb-0 pb-sm-2">
                             <h1 class="title title--h1 first-title title__separate">Sobre Mim</h1>
-                            <p>Como muitos, comecei na programação por curiosidade! Com o tempo, o amor pela programação
-                                foi
-                                crescendo a ponto de se tornar uma profissão e me especializar na área. Hoje, com a
-                                bagagem que
-                                tenho, compartilho meu conhecimento com todos os alunos do Campus Araguaina - IFTO</p>
+                            <p>Sou acadêmico de Direito, mas, sempre me interessei por tecnologias e consequentemente
+                                por suas linguagens de programação. Quando Eu vi a oportunidade de fazer o curso de
+                                Programador Web, não perdi tempo e me inscrevi. Estou gostando muito do curso.</p>
 
 
                             <div>
@@ -142,24 +141,24 @@
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto.svg" style="background-color: #FFF;"
+                                                    <img src="assets/img/logo1.png" style="background-color: #FFF;"
                                                         alt="IFTO Logo" /></a>
                                             </div>
 
                                             <!-- Item client -->
                                             <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto.svg"
+                                                <a href="#"><img src="assets/img/LOGO2.PNG"
                                                         style="background-color: #FFF;" alt="IFTO Logo" /></a>
                                             </div>
                                             <!-- Item client -->
                                             <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto.svg"
+                                                <a href="#"><img src="assets/img/LOGO3.PNG"
                                                         style="background-color: #FFF;" alt="IFTO Logo" /></a>
                                             </div>
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto.svg" style="background-color: #FFF;"
+                                                    <img src="assets/img/LOGO4.PNG" style="background-color: #FFF;"
                                                         alt="IFTO Logo" /></a>
                                             </div>
 
@@ -172,7 +171,7 @@
 
                             <!-- Footer -->
                             <footer class="footer">
-                                © Iury Gomes de Oliveira
+                                © Gabriel Victor Silva Vilarinho
                             </footer>
                         </div>
                     </div>

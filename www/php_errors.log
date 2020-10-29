@@ -1,0 +1,8 @@
+[19-Oct-2020 14:12:40 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/framework/../framework/fsphp.php): failed to open stream: No such file or directory in /usr/share/nginx/html/framework/template.php on line 2
+[19-Oct-2020 14:12:40 America/Araguaina] PHP Stack trace:
+[19-Oct-2020 14:12:40 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[19-Oct-2020 14:12:40 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/framework/../framework/fsphp.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/framework/template.php on line 2
+[19-Oct-2020 14:12:40 America/Araguaina] PHP Stack trace:
+[19-Oct-2020 14:12:40 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[23-Oct-2020 13:59:47 America/Araguaina] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[23-Oct-2020 13:59:47 America/Araguaina] PHP Fatal error:  Unknown: Failed opening required '/usr/share/nginx/html/index.php' (include_path='.:/usr/local/lib/php') in Unknown on line 0

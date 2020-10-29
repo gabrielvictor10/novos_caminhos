@@ -3,14 +3,15 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Gabriel Victor Silva Vilarinho</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Gabriel Victor Silva Vilarinho" />
+    <meta name="description"
+        content="Portifólio de trabalhos realizados e formação de Gabriel Victor Silva Vilarinho" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -34,29 +35,29 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/EU.jpeg" alt="Gabriel Victor Silva Vilarinho">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Gabriel Victor Silva Vilarinho</h4>
+                        <div class="status">Estudante de programação WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="*************">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/gabrielvictor10">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="*****************">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -118,192 +119,39 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">MBA em Gestão de Tecnologia da
-                                            Informação</h5>
-                                        <span class="timeline__period">2013 — 2014</span>
+                                        <h5 class="title title--h5 timeline__title">Montagem e Manutenção de
+                                            Computadores</h5>
+                                        <span class="timeline__period">2013 — 2013</span>
                                         <p class="timeline__description">
-                                            Centro Universitário Newton Paiva</p>
+                                            SENAI/PRONATEC</p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Bacharelado em Ciência da Computação
+                                        <h5 class="title title--h5 timeline__title">Acadêmico de Direito
                                         </h5>
-                                        <span class="timeline__period">2005 — 2009</span>
-                                        <p class="timeline__description">Universidade Católica de Goiás</p>
+                                        <span class="timeline__period">INCOMPLETO</span>
+                                        <p class="timeline__description">Centro Universitário Católica do Tocantins</p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">
-                                            Bootcamp Full Stack Developer
+                                            Técnico em Segurança do Trabalho
                                         </h5>
-                                        <span class="timeline__period">2020 — 2020</span>
-                                        <p class="timeline__description">IGTI - Instituto de Gestão e Tecnologia da
-                                            Informação.</p>
+                                        <span class="timeline__period">2014 — 2015</span>
+                                        <p class="timeline__description">PRONATEC</p>
                                     </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cursos Extracurriculares</h5>
-                                        <span class="timeline__period">ano — ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                        <ul>
-                                            <li>Curso 1</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 3</li>
-                                        </ul>
-                                    </article>
-                                    <article class="timeline__item">
-
-                                        <span class="timeline__period">ano — ano</span>
-                                        <p class="timeline__description">Empresa 2</p>
-                                        <ul>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                        </ul>
-                                    </article>
-
-
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <h2 class="title title--h3"><img class="title-icon"
-                                        src="assets/icons/dark/certificado.png" alt="" /> Certificação</h2>
-                                <div class="timeline">
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                    </article>
-
-                                </div>
-                            </div>
-
-                            <!--Experiencia-->
-
-                            <div class="col-12">
-                                <h2 class="title title--h3"><img class="title-icon"
-                                        src="assets/icons/dark/icon-experience.svg" alt="" /> Experiencia</h2>
-                                <div class="timeline">
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
-                                    </article>
-
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Skills -->
-                        <div class="row">
-                            <div class="col-12">
-                                <h2 class="title title--h3">Habilidades</h2>
-                                <div class="box box__border">
-                                    <!-- Progress -->
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>PHP</span><span>50%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>PHP</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="60"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>WordPress</span><span>60%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>WordPress</span></div>
-                                    </div>
 
-                                    <!-- Progress -->
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>JavaScript</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>Node.js</span><span>30%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>Node.js</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>JavaScript</span></div>
-                                    </div>
-
-                                    <!-- Progress -->
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>CSS</span><span>50%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>CSS</span></div>
-                                    </div>
-
-                                    <!-- Progress -->
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="70"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>HTML</span><span>70%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>HTML</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <!-- Footer -->
+                        <footer class="footer">© Gabriel Victor Silva Vilarinho</footer>
                     </div>
-
-                    <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
                 </div>
             </div>
-        </div>
     </main>
 
     <!-- SVG masks -->
