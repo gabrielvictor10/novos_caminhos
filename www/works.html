@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Gabriel Victor Silva Vilarinho</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,29 +36,29 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/EU.jpeg" alt="Gabriel Victor Silva Vilarinho">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
+                        <h4 class="title titl--h4">Gabriel Victor Silva Vilarinho</h4>
                         <div class="status">Desenvolvedor WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="**************************">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/gabrielvictor10">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="******************">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -137,70 +137,23 @@
                                 <!-- Item 1 -->
                                 <figure class="gallery-grid__item category-html category-js">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/github.svg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">
+                                            Projeto Novos Caminhos</h4>
+                                        <span
+                                            class="gallery-grid__category">https://github.com/gabrielvictor10/novos_caminhos</span>
                                     </figcaption>
                                 </figure>
-
-                                <!-- Item 2 -->
-                                <figure class="gallery-grid__item category-wordpress">
-                                    <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
-                                            data-zoom alt="" />
-                                    </div>
-                                    <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
-                                    </figcaption>
-                                </figure>
-
-                                <!-- Item 3 -->
-                                <figure class="gallery-grid__item category-wordpress">
-                                    <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
-                                            data-zoom alt="" />
-                                    </div>
-                                    <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
-                                    </figcaption>
-                                </figure>
-
-                                <!-- Item 4 -->
-                                <figure class="gallery-grid__item category-html category-wordpress category-php">
-                                    <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
-                                            data-zoom alt="" />
-                                    </div>
-                                    <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
-                                    </figcaption>
-                                </figure>
-
-                                <!-- Item 5 -->
-                                <figure class="gallery-grid__item category-wordpress">
-                                    <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
-                                            data-zoom alt="" />
-                                    </div>
-                                    <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
-                                    </figcaption>
-                                </figure>
-
 
                             </div><!-- Gallery End -->
                         </div>
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Wagner Alcantara da Silva</footer>
+                    <footer class="footer">© Gabriel Victor Silva Vilarinho</footer>
                 </div>
             </div>
         </div>
